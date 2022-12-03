@@ -1,1 +1,1 @@
-https://github.com/srlimasilva/Site-iphone-aula.git
+https://srlimasilva.github.io/site-iphone-aula/
